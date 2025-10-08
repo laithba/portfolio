@@ -7,6 +7,7 @@ import Contact from './Componants/Contact/Contact.jsx'
 import Footer from  './Componants/Footer/Footer.jsx'
 import Projects from './Componants/Projects/Projects.jsx'
 import Education from './Componants/Education/Education.jsx'
+import Whatsapp from './Componants/Whatsapp/Whatsapp.jsx'
 
 
 
@@ -24,6 +25,7 @@ function App() {
       <Contact/>
       
       <Projects/>
+      <Whatsapp/>
       <Footer/>
 
 
