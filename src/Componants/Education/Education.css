@@ -67,14 +67,22 @@
 }
 
 
-.education_image {
-    width: 105px;
-    height: 70px;
+.education_image
+
+ {
+    position: relative;
+    width: 126px;
+    height: 83px;
     object-fit: contain;
     margin-bottom: 10px;
     border-radius: 8px;
+    left: 42%;
+    transition: transform 1.6s ease;
 }
- 
+.education_image:hover {
+    transform: rotate(360deg);
+}
+
 @media (max-width: 768px) {
   .education_image {
     width: 100px;
