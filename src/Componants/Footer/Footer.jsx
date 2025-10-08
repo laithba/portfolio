@@ -20,13 +20,13 @@ function Footer() {
 
         {/* Right side - Social Icons */}
         <div className="footer_socials">
-          <a href="mailto:laithbarakat08@gmail.com" target="_blank" rel="noreferrer">
+          <a href="mailto:laithmousa93@gmail.com" target="_blank" rel="noreferrer">
             <FaEnvelope />
           </a>
-          <a href="https://www.linkedin.com/in/laithbarakat08/" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/lbarakat02" target="_blank" rel="noreferrer">
             <FaLinkedin />
           </a>
-          <a href="https://www.facebook.com/laithbarakat08" target="_blank" rel="noreferrer">
+          <a href="https://www.facebook.com/laith.king.902266" target="_blank" rel="noreferrer">
             <FaFacebook />
           </a>
         </div>

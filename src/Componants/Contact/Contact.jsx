@@ -41,13 +41,13 @@ function Contact() {
           <h3>Contact Info</h3>
           <p>Reach out via any of the following platforms:</p>
           <div className="contact_methods">
-            <a href="mailto:laithbarakat08@gmail.com" target="_blank" rel="noreferrer">
+            <a href="mailto:laithmousa93@gmail.com" target="_blank" rel="noreferrer">
               <FaEnvelope /> Email
             </a>
-            <a href="https://www.linkedin.com/in/laithbarakat08/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/lbarakat02/" target="_blank" rel="noreferrer">
               <FaLinkedin /> LinkedIn
             </a>
-            <a href="https://www.facebook.com/laithbarakat08" target="_blank" rel="noreferrer">
+            <a href="https://www.facebook.com/laith.king.902266" target="_blank" rel="noreferrer">
               <FaFacebook /> Facebook
             </a>
           </div>
