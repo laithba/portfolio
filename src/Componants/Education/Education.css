@@ -65,3 +65,23 @@
     grid-template-columns: 1fr;
   }
 }
+
+
+.education_image {
+    width: 105px;
+    height: 70px;
+    object-fit: contain;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+ 
+@media (max-width: 768px) {
+  .education_image {
+    width: 100px;
+    object-fit: contain;
+    margin-bottom: 12px;
+    border-radius: 8px;
+    position: relative;
+    left: 76px;
+  }
+}
