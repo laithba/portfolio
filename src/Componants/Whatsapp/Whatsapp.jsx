@@ -157,8 +157,9 @@ function Whatsapp() {
 
 .whatsapp-popup .close-btn {
     position: absolute;
-    top: 4px !important;
-    left: -28px !important;
+    top: 2px !important;
+    left: 238px !important;
+    color: green;
 }
 
 
