@@ -1,6 +1,6 @@
 import './Home.css'
 import Me from '../../assets/laith1.png'
-import CV from'../..//assets/laithcv.pdf'
+import CV from'../..//assets/LaithBarakatCv (1).pdf'
 import Homesocial from './Homesocial'
 
 

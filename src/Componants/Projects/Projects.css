@@ -55,6 +55,14 @@
     margin-bottom: 1rem;
 }
 
+.project_description {
+    font-size: 0.95rem;
+    color: var(--color-white);
+    line-height: 1.5;
+    margin-bottom: 1.25rem;
+    text-align: left;
+}
+
 .btn-demo {
     display: inline-block;
     background: var(--color-primary);
@@ -83,5 +91,9 @@
 
     .project_img img {
         height: 180px;
+    }
+
+    .project_description {
+        text-align: center;
     }
 }
